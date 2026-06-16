@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-community
+pypdf
+fpdf
+python-json-logger
+gunicorn
+fastapi
+uvicorn
